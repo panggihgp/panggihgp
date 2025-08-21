@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I currently graduated from bachelor's degree of informatics, focusing in computer network and cyber security.
+-. 🔭 I currently graduated from bachelor's degree of informatics, focusing in computer network and cyber security.
 - 🌱 I’m currently learning Ethical Hacking using Kali Linux and Metasploitable Framework
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I currently graduated from bachelor's degree of informatics, focusing in computer network and cyber security.
+- 🌱 I’m currently learning Ethical Hacking using Kali Linux and Metasploitable Framework
